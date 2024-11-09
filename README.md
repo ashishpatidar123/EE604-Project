@@ -1,5 +1,5 @@
 # EE604-Project
-## Instruction to run the code
+## Instructions to run the code
  
 Download the repository.  
 Install the required dependencies.  
